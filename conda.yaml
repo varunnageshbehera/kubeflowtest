@@ -9,3 +9,5 @@ dependencies:
       - xgboost
       - numpy
       - mlflow
+      - fastapi
+      - uvicorn
